@@ -199,7 +199,7 @@
     // ==========================================
     
     // 📱 TU WHATSAPP (Con 549 para Argentina, de corrido sin espacios)
-    const MI_WHATSAPP = "5491122334455"; 
+    const MI_WHATSAPP = "5491151129751"; 
 
     // 🔴 NÚMEROS VENDIDOS: Agregá acá entre comillas los números ocupados (del "001" al "150")
     // Ejemplo: const ocupados = ["005", "045", "123"];
